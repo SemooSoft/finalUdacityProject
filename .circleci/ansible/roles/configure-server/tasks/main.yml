@@ -1,0 +1,26 @@
+---
+- name: "install python3."
+  become: true
+  apt:
+    name: ["python3"]
+    state: latest
+    update_cache: true
+
+- name: "upgrade packages"
+  become: true
+  apt:
+    upgrade: true
+
+- name: "install nodejs npm"
+  become: true
+  apt:
+    name: ["nodejs", "npm"]
+    state: latest
+
+- name: "install pm2"
+  become: true
+  npm:
+    name: pm2
+    global: true
+    production: true
+    state: present

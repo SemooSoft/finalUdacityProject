@@ -1,0 +1,8 @@
+website url : http://d1v573dbiy205y.cloudfront.net/#/employees
+
+s3 url : http://udapeople-11b4df0.s3-website-us-east-1.amazonaws.com
+
+github 1 : https://github.com/SemooSoft/finalUdacityProject/branches
+
+github 2 : https://github.com/sms105
+

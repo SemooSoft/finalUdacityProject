@@ -1,0 +1,8 @@
+website url : http://d5b48o6d4sle8.cloudfront.net/#/employees
+
+s3 url : http://udapeople-11b4df0.s3-website-us-east-1.amazonaws.com
+
+github  : https://github.com/SemooSoft/finalUdacityProject
+
+
+
